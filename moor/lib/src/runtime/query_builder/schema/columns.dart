@@ -163,7 +163,7 @@ class GeneratedTextColumn extends GeneratedColumn<String>
             $customConstraints: $customConstraints, defaultValue: defaultValue);
 
   @override
-  final String typeName = 'VARCHAR';
+  final String typeName = 'TEXT';
 
   @override
   VerificationResult isAcceptableValue(String value, VerificationMeta meta) {
