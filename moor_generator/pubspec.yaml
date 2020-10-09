@@ -23,7 +23,7 @@ dependencies:
 
   # Moor-specific analysis
   moor:
-    path: /Users/sudhanshugautam/workspace/moor/moor
+    path: ../moor
   sqlparser: ^0.11.0
 
   # Dart analysis
